@@ -1,6 +1,8 @@
-# AutoRecorder
+
+# AutoRecorder[Archived]
 This script records a timed set of time of a zoom meeting with Open Broadcast Studio (OBS)
 
+## This project is archived and had been moved to [Zoom-Auto-Recorder](https://github.com/rootCircle/Zoom-AutoRecorder).
 ## **prerequisites**
 
 * Install Zoom, log in and ensure:
